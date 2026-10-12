@@ -1,4 +1,6 @@
 # GeoMine Machinery & Telemetry Management
+Student: Miguel Ángel Junior Roman Lopez,
+Code: u202212897
 
 A Vue 3 dashboard for reviewing mining machinery inspections and recording telemetry.
 
